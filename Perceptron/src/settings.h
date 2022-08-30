@@ -18,7 +18,7 @@
 #include <string>
 
 #define DEFAULT_SETTINGS_FILE_NAME "settings.ini"
-#define DEFAULT_TRAIN_DATA_DIR "train_data"
+#define DEFAULT_TRAIN_DATA_DIR "training_data"
 
 struct SettingsData
 {

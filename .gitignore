@@ -2,7 +2,7 @@
 .vscode/*
 
 # Qt
-build*
+*.pro
 *.pro.user
 
 # JetBrains CLion
