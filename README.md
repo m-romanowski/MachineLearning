@@ -8,6 +8,7 @@ Available implementations:
 
 ## Built with
 * [Qt](https://www.qt.io)
+* [QCustomPlot](https://www.qcustomplot.com)
 * [cmake](https://cmake.org)
 
 ## License
